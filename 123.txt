@@ -5,5 +5,5 @@ mingi muu osa
 
 
 mingi tekst 3
-mingi tekst 4
+
 mingi tekst 5
